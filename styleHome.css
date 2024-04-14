@@ -1,0 +1,112 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    text-align: center;
+    background-color: white;
+}
+
+.wrapper {
+    width:90%;
+    margin: 0 auto;
+   
+}
+
+header{
+    width: 100%;
+    height:100px;
+    background-color:navy;
+    position:fixed;
+}
+
+
+
+.logo button {
+    width:20%;
+    float: left;
+    line-height: 90px;
+    color:white;
+    font-size: 35px;
+    background-color: navy;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav{
+    float:right;
+    line-height: 90px;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    letter-spacing: 4px;
+    padding:20px 10px;
+    margin: 0 1px;
+}
+
+.content{
+    width: 100%;
+    
+    position:relative;
+    top:100px;
+}
+
+.discrip h3 {
+    font-size: 40px;
+}
+
+.discrip p{
+    font-size: 25px;
+}
+
+.discrip {
+    padding: 40px;
+    background: rgb(208, 243, 255);
+}
+
+.table0{
+    width:100%;
+    font-size: 20px;
+    box-align: center;
+}
+ Table{
+    width:100%;
+
+    background: white;
+    margin:0px;
+    border: 0px;
+ }
+ .TC1{
+    background: rgb(179, 198, 218);
+ }
+
+ .TC2{
+    background: lightgrey;
+ }
+ td{
+    padding: 5px;
+    font-size: 25px;
+ }
+ img{
+    width:70%;
+    height:70%;
+ }
+
+ .ChineseV{
+    padding: 57.5px;
+    background: rgb(207, 207, 255);
+    float: left;
+ }
+
+ .EnglishV{
+    padding: 57.5px;
+    background: rgb(173, 173, 255);
+    float: right;
+ }
